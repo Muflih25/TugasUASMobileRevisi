@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Panggonan Wingit</item>
+        <item>Kultus Iblis</item>
+        <item>Peletan Pocong</item>
+        <item>Sarangjana</item>
+        <item>Pengabdi Setan 3</item>
+        <item>Sewo Dino</item>
+        <item>Kuasa Gelap</item>
+        <item>Jelangkung</item>
+        <item>Perjamuan Iblis</item>
+        <item>Malam Para Jahannam</item>
+        <item>Pesugihan</item>
+        <item>Indogo</item>
+        <item>Diambang Kematian</item>
+        <item>Sijjin</item>
+        <item>Siksa Neraka</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>RAINA (Luna Maya) dan adiknya, FEY (Bianca Hello) pindah dari Jakarta ke Semarang untuk mengelola Hotel Ambar Mangun, sebuah hotel warisan ayah mereka yang tidak pernah mereka kunjungi sebelumnya dan selama ini dikelola oleh SUKTINI (Oce Permatasari) dan GARINTO (Budi Ros), nenek dan kakek mereka. Suatu malam Raina mendengar suara tangis dari lantai tiga yang dilarang dimasuki siapapun lalu ia membuka pintu sebuah kamar tak bernomor di sana. Ternyata kamar itu adalah “Panggonan Wingit”, sebuah tempat yang sudah lama dihuni oleh sosok gaib. Jika ada yang membuka kamar itu, ia akan melihat sosok wanita berkulit putih dan berambut putih yang mengatakan “Telung dino, tengah wengi” yang artinya “Tiga hari, tengah malam”, lalu tiga hari kemudian akan mati dikuliti saat tengah malam. Sekarang nyawa Raina terancam. Ia bersama ARDO (Christian Sugiono) – mantan pacarnya yang seorang jurnalis – Fey, Suktini, dan Garinto mencari cara supaya bisa selamat. Misteri demi misteri yang penuh teka-teki masa lalu terkuak. Akankah mereka bisa selamat dari kematian? Waktu mereka sangat sempit.</item>
+        <item>Kultus Iblis akan menceritakan Naya (Yasamin Jasem) dan Raka (Fadi Alaydrus) yang merasa berduka atas kematian ayah mereka. Belum tuntas perasaan duka yang tengah menyelimuti mereka, kedua anak kembar tersebut kembali dihadapkan dengan situasi yang janggal dengan menghilangnya jenazah sang ayah.</item>
+        <item>Sudah lama Adam terpikat dengan kecantikan Susan, janda cantik pemilik pabrik teh di tempat dia bekerja. Namun bukan hanya cintanya bertepuk sebelah tangan, malahan Susan menghina dan mempermalukannya. Rasa sakit hati Adam membuatnya nekad melakukan ritual kuno yang ia pelajari dari Ki Suryo, ayahnya yang juga mantan dukun yang sudah lama meninggal. Ritual tersebut mengharuskan Adam untuk menggali kuburan dengan mulut menggigit sendok selama berhari-hari untuk memperoleh pelet tali pocong. Tidak butuh waktu lama, Susan pun jatuh ke pelukan Adam dan semua harta dan pabriknya berhasil dikuasainya. Warga tidak berani keluar rumah karena teror hantu pocong yang sering muncul di kampung mereka, dan ustadz Bahri mencurigai Adam sebagai pelaku teror yang bersekutu dengan pocong. Adam berencana mengambil nyawa ustadz Bahri yang juga menjadi penghalang hubungannya dengan Anissa, anak gadis ustadz Bahri. Anissa menolak mentah-mentah cintanya, dan Adam berniat menghabisi Anissa dengan tangannya sendiri. Akankan Adam berhasil? Atau sebaliknya…….Mati mengenaskan akibat ulahnya sendiri…..</item>
+        <item>Sebuah band Signifikan asal Jakarta tour konser di Kotabaru, Kalimantan Selatan. Shita si vokalis band menghilang secara misterius. Setelah mencari informasi, anggota band lainnya meyakini Sitha berada di Saranjana, sebuah kota yang dipercaya warga lokal sebagai kota ghaib yang modern dan maju. Dalam waktu 7 hari mereka pun harus melakukan petualangan yang penuh dengan kejadian horor dan mistis demi masuk ke kota saranjana untuk membawa sang vokalis kembali.</item>
+        <item>Beberapa tahun setelah berhasil menyelamatkan diri dari kejadian mengerikan yang membuat mereka kehilangan ibu dan si bungsu Ian, Rini dan adik-adiknya, Toni dan Bondi, serta Bapak tinggal di rumah susun karena percaya tinggal di rumah susun aman jika terjadi sesuatu karena ada banyak orang.</item>
+        <item>Ditengah kesulitan ekonomi, Sri diterima bekerja untuk keluarga Atmojo dengan bayaran yang tinggi, karena keunikan yang ia miliki, yaitu lahir pada hari Jumat Kliwon. Bersama Erna dan Dini, mereka dibawa ke sebuah gubuk tersembunyi di tengah hutan. Di gubuk tersebut, Sri, Erna, dan Dini bertugas untuk memandikan Dela Atmojo, cucu dari Mbah Karsa Atmojo yang tidak sadarkan diri karena kutukan santet Sewu Dino, salah satu santet yang paling mengerikan. Mereka tidak bisa lari dari gubuk tersebut karena terikat perjanjian mistis dengan Mbah Karsa Atmojo, dan mereka harus selesaikan ritual sampai hari ke 1000. Jika melanggar, kematian menanti mereka.</item>
+        <item>Kuasa Gelap bercerita tentang seorang pendeta muda yang menghadapi kasus seorang gadis kerasukan setan. Gadis ini ternyata mengingatkan pendeta muda itu pada mendiang adik perempuannya. Adapun nama-nama yang sudah dipastikan tampil di film Kuasa Gelap adalah Jerome Kurnia, Lukman Sardi, dan Astrid Tiar.</item>
+        <item>Jailangkung Sandekala mengisahkan perjalanan liburan keluarga kecil Adrian (Dwi Sasono) dan Sandra (Titi Kamal) ke luar kota. Yang tidak mereka ketahui, liburan mereka ternyata berubah menjadi petaka.Perjalanan ke kawasan pegunungan yang tadinya menyenangkan itu seketika menjadi mimpi buruk saat mereka melakukan tur ke sebuah danau wisata.</item>
+        <item>Sebagaimana judulnya, film Perjamuan Iblis mengangkat kisah seseorang yang bersekutu dengan iblis. Untuk mencapai tujuannya, ia harus melakukan segala hal yang diperintahkan oleh iblis yang dia sembah. Perjamuan Iblis dijadwalkan tayang di bioskop sejak 16 Oktober 2023 dan masih bisa ditonton hingga saat ini.</item>
+        <item>Berlatar tahun 1965, “Malam Para Jahanam” menggambarkan cerita tentang sebuah desa bernama Winongo yang terkutuk oleh kemarahan ratusan roh jahat setiap tahunnya selama tiga malam. Konon, malam-malam tersebut mereka menganggap sebagai periode paling berbahaya. Mana teror makhluk halus mewabah dengan ganas. Pertempuran sengit antara Pemuda Rakyat dan Kelompok Santri menjadi penyebab terjadinya tiga malam paling berbahaya yang dikenal sebagai “Malam Para Jahanam”. Pada malam-malam tersebut, ratusan roh jahat muncul, menghuni, dan mengakibatkan kematian penduduk desa.</item>
+        <item>Hendri dan Marini memilki 2 orang putri yang sangat mereka cintai, segalanya mereka berikan untuk kebahagiaan anak-anak mereka, kecuali waktu. Bisnis yang mereka jalankan sedang berada di puncak kesuksesan, sehingga membuat Hendri dan Marini lebih sering berada di luar ketimbang menemani anak-anaknya. Sebagai gadis yang tegas, cerdas dan tidak banyak berbicara, Resikalah yang menjadi pengganti orangtua untuk adiknya Karin; gadis manis, ceria, feminin dan agak kekanak-kanakan. Di SMA mereka, Resika berpacaran dengan Dion dan mereka memiliki sahabat bernama Jefta. Sampai hari itu, segalanya baik-baik saja. Namun suatu hari, Hendri dan Marini mendapat pukulan luar biasa, bisnis mereka hancur, hutang menumpuk membuat rumah mereka yang tadinya selalu cerah berubah muram. Sikap Hendri yang kebapakan dan hangat berubah menjadi dingin dan acuh. Hingga suatu malam, Marini tanpa sengaja melihat Hendri pergi dengan diam-diam, Marini menangis dan meminta Hendri tidak melakukan itu yang entah apa sebenarnya. Barulah terbuka bahwa yang dilakukan Hendri adalah jalan pintas untuk mendapatkan kekayaannya kembali. Jalan pintas yang diambil Hendri membuat terror yang tiada henti terjadi. Mungkinkah Hendri dapat mengembalikan kehidupan keluarganya seperti semula atau sebaliknya.</item>
+        <item>INDIGO mengisahkan tentang Zora, seorang perempuan muda yang sejak kecil memiliki kemampuan indigo atau indera keenam untuk melihat sosok yang tidak terlihat oleh mata biasa. Kemampuan tersebut tidak dapat disebut sebagai anugerah, karena justru mendatangkan ancaman misterius dari makhluk halus mengerikan yang menimpa keluarganya. Selain Zora, adiknya juga memiliki kemampuan indera keenam yang sama. Zora dan adiknya pun bekerja sama untuk mengatasi rasa takut mereka demi mengungkap tabir misteri di balik teror yang tengah menimpa mereka.</item>
+        <item>Paska kematian ibunya yang tragis, Nadia (Taskya Namya) mengetahui bahwa ayahnya (Rifnu Wikana) terlanjur melakukan pesugihan yang menuntut nyawa manusia. Demi mencegah kematian berikutnya, Nadia, kakaknya Yoga (Wafda) dan sang ayah menempuh ritual-ritual khusus. Namun, Iblis di balik pesugihan itu tetap terus mengintai. Membuat Nadia dan keluarganya hidup bagai di ambang kematian.</item>
+        <item>Sijjin bercerita tentang teror yang diterima Nisa, seorang istri dan ibu yang sangat mencintai keluarganya. Nisa dan suaminya, Galang, kebingungan dengan gangguan mistis yang tiba-tiba dialami Nisa. Sebelumnya, baik Nisa maupun Galang sama sekali nggak pernah mengalami hal seperti itu</item>
+        <item>Siksa Neraka menceritakan kisah orang-orang yang mendapatkan balasan penyiksaan di akhirat karena telah berperilaku buruk selama dirinya hidup di dunia. Pada akhirnya, dosa-dosa yang mereka tumpuk dan abaikan akan menjadi bumerang bagi mereka di neraka.</item>
+
+
+    </string-array>
+    <array name="video_id">
+        <item>@raw/video0</item>
+        <item>@raw/video1</item>
+        <item>@raw/video2</item>
+        <item>@raw/video3</item>
+        <item>@raw/video4</item>
+        <item>@raw/video5</item>
+        <item>@raw/video6</item>
+        <item>@raw/video7</item>
+        <item>@raw/video8</item>
+        <item>@raw/video9</item>
+        <item>@raw/video10</item>
+        <item>@raw/video11</item>
+        <item>@raw/video12</item>
+        <item>@raw/video13</item>
+        <item>@raw/video14</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/gambar0</item>
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar14</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+        <item>@drawable/gambar7</item>
+        <item>@drawable/gambar8</item>
+        <item>@drawable/gambar9</item>
+        <item>@drawable/gambar10</item>
+        <item>@drawable/gambar11</item>
+        <item>@drawable/gambar12</item>
+        <item>@drawable/gambar13</item>
+        <item>@drawable/gambar2</item>
+    </integer-array>
+</resources>

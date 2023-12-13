@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Judul Audio"
+        android:textSize="20sp"
+        android:textColor="#ffff"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/img_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textTitle"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/sound"
+        android:contentDescription="Audio Image" />
+
+    <ImageButton
+        android:id="@+id/btnPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_view"
+        android:layout_marginLeft="310dp"
+        android:layout_marginTop="-82dp"
+        android:contentDescription="Play"
+        android:src="@android:drawable/ic_media_play" />
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="3dp"
+        android:layout_below="@+id/btnPlay"
+        android:layout_marginTop="39dp"
+        android:background="#A12E2E"/>
+
+
+</RelativeLayout>

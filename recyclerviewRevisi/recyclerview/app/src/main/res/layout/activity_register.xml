@@ -1,0 +1,77 @@
+<!-- activity_register.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/bckgroundlogin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="30dp"
+        android:layout_marginTop="200dp">
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:text="Silahkan Lakukan Register"
+            android:layout_gravity="center"
+            android:textColor="#A12E2E"
+            android:gravity="center_horizontal|center_vertical"
+            android:textStyle="bold"
+            android:layout_marginBottom="50dp"
+            android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/editTextRegisterEmail"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_shape"
+        android:hint="Masukkan Email"
+        android:paddingLeft="10dp"
+        android:textSize="18sp"
+        android:inputType="textEmailAddress" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_shape"
+            android:hint="Masukkan Password"
+            android:paddingLeft="10dp"
+            android:textSize="18sp"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/editTextRegisterPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_shape"
+            android:hint="Masukkan Ulang Password"
+            android:paddingLeft="10dp"/>
+
+        <Button
+        android:id="@+id/buttonRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextRegisterPassword"
+        android:layout_marginTop="20dp"
+        android:text="Register" />
+
+    <TextView
+        android:id="@+id/textViewLoginLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonRegister"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Already have an account? Login here."
+        android:textColor="#007BFF"
+        android:layout_marginLeft="25dp"
+        android:textSize="16sp" />
+    </LinearLayout>
+
+</RelativeLayout>
